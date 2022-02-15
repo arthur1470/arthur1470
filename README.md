@@ -23,6 +23,8 @@
 | <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur1470&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Arthur's github stats" /></a> | <a href="https://github.com/arthur1470/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1470&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<!-- ### Contact me
-![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![image](https://user-images.githubusercontent.com/33288190/153919896-7891b033-705d-4834-8001-b9b69233a005.png) -->
+### Contact me 
+
+<a href="https://www.linkedin.com/in/arthur-marques-dev/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<!--<a href=""><img height="22" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> -->

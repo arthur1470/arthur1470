@@ -9,7 +9,7 @@
 
 # 
 
-<code><a target="_blank" href="https://dev.java/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a></code>
+<code><a href="https://dev.java/" target="_blank" ><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a></code>
 <code><a target="_blank" href="https://spring.io/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a></code>
 <code><a target="_blank" href="https://www.javascript.com/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a target="_blank" href="https://www.typescriptlang.org/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>

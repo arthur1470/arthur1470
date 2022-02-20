@@ -20,7 +20,7 @@
 <code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 
 
-| <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur1470&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Arthur's github stats" /></a> | <a href="https://github.com/arthur1470/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1470&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur1470&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Arthur's github stats" /></a> | <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1470&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Contact me 

@@ -9,17 +9,17 @@
 
 # 
 
-<code><a href="https://dev.java/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a></code>
-<code><a href="https://spring.io/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a></code>
-<code><a href="https://www.javascript.com/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="https://www.typescriptlang.org/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>
-<code><a href="https://reactjs.org/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
-<code><a href="https://nextjs.org/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a></code>
-<code><a href="https://nodejs.org/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
-<code><a href="https://www.mysql.com/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a></code>
-<code><a href="https://www.postgresql.org/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a></code>
-<code><a href="https://www.mongodb.com/atlas/database"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a></code>
-<code><a href="https://fauna.com/"><img height="22" src="https://pbs.twimg.com/profile_images/1329818198087122947/0Q2Fs8Uj_400x400.jpg"></a></code>
+<code><a target="_blank" href="https://dev.java/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a></code>
+<code><a target="_blank" href="https://spring.io/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a></code>
+<code><a target="_blank" href="https://www.javascript.com/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><a target="_blank" href="https://www.typescriptlang.org/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code>
+<code><a target="_blank" href="https://reactjs.org/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
+<code><a target="_blank" href="https://nextjs.org/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a></code>
+<code><a target="_blank" href="https://nodejs.org/"><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
+<code><a target="_blank" href="https://www.mysql.com/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a></code>
+<code><a target="_blank" href="https://www.postgresql.org/"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a></code>
+<code><a target="_blank" href="https://www.mongodb.com/atlas/database"><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a></code>
+<code><a target="_blank" href="https://fauna.com/"><img height="22" src="https://pbs.twimg.com/profile_images/1329818198087122947/0Q2Fs8Uj_400x400.jpg"></a></code>
 
 
 | <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur1470&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Arthur's github stats" /></a> | <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1470&layout=compact&theme=buefy&hide_border=true" /></a> |

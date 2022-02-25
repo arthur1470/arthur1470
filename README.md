@@ -1,5 +1,7 @@
 ## Hi there 👋  Arthur Marques here, welcome!
 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=arthur1470&repo=arthur1470&countColorcountColor)
+
 #### Today's a great day to
 
 - 🦾 Be an awesome player
@@ -24,6 +26,9 @@
 
 | <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur1470&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Arthur's github stats" /></a> | <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1470&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=arthur1470&hide_border=true)
 
 ### Contact me 
 

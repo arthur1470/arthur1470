@@ -24,11 +24,11 @@
 <code><a target="_blank" href="https://fauna.com/"><img height="22" src="https://pbs.twimg.com/profile_images/1329818198087122947/0Q2Fs8Uj_400x400.jpg"></a></code>
 
 
-| <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur1470&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Arthur's github stats" /></a> | <a href="https://github.com/arthur1470/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1470&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/arthur1470/"><img src="https://github-readme-stats.vercel.app/api?username=arthur1470&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Arthur's github stats" /></a> | <a href="https://github.com/arthur1470/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1470&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<div align="center"><a href="https://github.com/arthur1470?tab=repositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur1470&hide_border=true" /></a></div>
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=arthur1470&hide_border=true)
 
 ### Contact me 
 

@@ -1,6 +1,6 @@
 ## Hi there 👋  Arthur Marques here, welcome!
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=arthur1470&repo=arthur1470&countColorcountColor)
+<!-- ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=arthur1470&repo=arthur1470&countColorcountColor) -->
 
 #### Today's a great day to
 
